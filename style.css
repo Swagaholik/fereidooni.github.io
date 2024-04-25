@@ -11,13 +11,17 @@ a consistent look and feel.
     color: #C04000;
 }
 
+.back-pink {
+    color: deeppink;
+}
+
 .green-font {
     color: #90EE90;
 }
 
 body {
     background-color: black;
-    font-family: "Courier New";
+    font-family: "Courier New", serif;
     color: white;
     margin-left: auto;
     margin-right: auto;
@@ -27,13 +31,14 @@ body {
   background-image: url("black.jpg"); */
 }
 
+h2,
 h3,
 ul,
 ol {
     text-align: left;
 }
 
-.list {
+.list-header {
     color: cyan;
 }
 
